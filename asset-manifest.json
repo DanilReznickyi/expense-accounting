@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DanilReznickyi.github.io/expense-accounting/static/css/main.7b90b1d6.css",
-    "main.js": "/DanilReznickyi.github.io/expense-accounting/static/js/main.eb167041.js",
-    "index.html": "/DanilReznickyi.github.io/expense-accounting/index.html",
-    "main.7b90b1d6.css.map": "/DanilReznickyi.github.io/expense-accounting/static/css/main.7b90b1d6.css.map",
-    "main.eb167041.js.map": "/DanilReznickyi.github.io/expense-accounting/static/js/main.eb167041.js.map"
+    "main.css": "/expense-accounting/static/css/main.7b90b1d6.css",
+    "main.js": "/expense-accounting/static/js/main.eb167041.js",
+    "index.html": "/expense-accounting/index.html",
+    "main.7b90b1d6.css.map": "/expense-accounting/static/css/main.7b90b1d6.css.map",
+    "main.eb167041.js.map": "/expense-accounting/static/js/main.eb167041.js.map"
   },
   "entrypoints": [
     "static/css/main.7b90b1d6.css",
